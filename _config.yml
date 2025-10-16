@@ -1,10 +1,10 @@
 # Site settings
 title: BY Blog
-SEOTitle: man吧 | BY Blog
+SEOTitle: manba | man吧
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, manba的博客,manba, 曼巴 ,思索"
+email: j32997515@gmail.com
+description: "Right now, no retreat!."
+keyword: "man, man吧, manba的博客,manba, 曼巴 ,思索"
 url: "https://niaoheyu.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/niaoheyu/niaoheyu.github.io" # you code repository
